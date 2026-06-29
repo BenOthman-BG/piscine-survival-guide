@@ -53,3 +53,8 @@ If you are a fellow Piscineer or just learning C, you can clone this repo and te
 ## ⚠️ Disclaimer
 
 If you are currently participating in a 42 Piscine, **do not copy and paste this code**. The Moulinette will flag you for cheating (-42). This repository is meant to be a learning resource and a reference for understanding concepts. The Piscine is about building resilience and learning how to learn—struggling through the segmentation faults is part of the process!
+
+## 📫 Contact
+
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/othmanbenyahya/) for questions or collaboration opportunities.
+
