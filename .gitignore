@@ -1,0 +1,7 @@
+# Ignore compiled C executables
+a.out
+
+# Ignore notes
+notes
+notes/
+00_Notes/
